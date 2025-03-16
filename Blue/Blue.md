@@ -2,7 +2,7 @@
 
 ## Overview
 
-This writeup covers the exploitation of a vulnerable SMB service in the "Blue" lab from TCM Academy using the EternalBlue exploit. The attack involves enumerating the target using `nmap` and exploiting it using Metasploit.
+This writeup covers the exploitation of a vulnerable SMB service in the "Blue" lab from TCM Academy using the EternalBlue exploit. The attack involves enumerating the target using `nmap` and exploiting it using `Metasploit Framework`.
 
 ## Tools Used
 
