@@ -1,4 +1,4 @@
-# TCM Academy Capstone Lab: Blue (EternalBlue Exploit)
+# TCM Security Academy Capstone Lab: Blue (EternalBlue Exploit)
 
 ## Overview
 
